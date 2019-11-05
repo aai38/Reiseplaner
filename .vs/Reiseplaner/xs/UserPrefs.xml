@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{8DFF2C85-1514-1EAD-AA60-99ACC5B19E40}|">
+  <MonoDevelop.Ide.ItemProperties.Reiseplaner PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ExpenditureScrollViewAdapter.cs">
+    <Files>
+      <File FileName="Assets/Scripts/JourneyScrollViewAdapter.cs" Line="46" Column="45" />
+      <File FileName="Assets/Scripts/ExpenditureScrollViewAdapter.cs" Line="106" Column="26" />
+      <File FileName="Assets/Scripts/ConnectionsScrollViewAdapter.cs" Line="241" Column="47" />
+      <File FileName="Assets/Scripts/OpenOverview.cs" Line="10" Column="34" />
+      <File FileName="Assets/Scripts/OverviewController.cs" Line="28" Column="30" />
+      <File FileName="Assets/Scripts/SaveToJSON.cs" Line="75" Column="61" />
+      <File FileName="Assets/Scripts/Model/Journey.cs" Line="96" Column="26" />
+      <File FileName="Assets/Scripts/Model/Airplane.cs" Line="36" Column="46" />
+      <File FileName="Assets/Scripts/Model/Budget.cs" Line="8" Column="22" />
+      <File FileName="Assets/Scripts/Model/PackingList.cs" Line="6" Column="50" />
+      <File FileName="Assets/Scripts/Model/Train.cs" Line="36" Column="45" />
+      <File FileName="Assets/Scripts/Model/Bus.cs" Line="36" Column="43" />
+      <File FileName="Assets/Scripts/ShowDetails.cs" Line="44" Column="59" />
+      <File FileName="Assets/Scripts/DetailsController.cs" Line="82" Column="46" />
+      <File FileName="Assets/AndroidNativPlugin/Scripts/AndroidNativePlugin/AndroidNativeController.cs" Line="24" Column="37" />
+      <File FileName="Assets/AndroidNativPlugin/Scripts/AndroidPlayerSettings/ChangeSettings.cs" Line="7" Column="83" />
+      <File FileName="Assets/AndroidNativPlugin/Scripts/AndroidNativePlugin/AndroidNativePluginLibrary.cs" Line="8" Column="30" />
+      <File FileName="Assets/AndroidNativPlugin/Examples/Demo/Demo.cs" Line="51" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4ca31774-d745-4d88-ae28-8fedb6c47459" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
